@@ -1,0 +1,15 @@
+#img{
+    height: 600px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.carousel-item img{
+    height: 600px;
+    width: 100%;
+    object-fit: contain;
+}
+
+a{
+    color: ;
+}
